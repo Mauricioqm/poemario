@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "770660359040",
+    "firebase_url": "https://cesde-551bd-default-rtdb.firebaseio.com",
+    "project_id": "cesde-551bd",
+    "storage_bucket": "cesde-551bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770660359040:android:44f491ce358f1f369fff65",
+        "android_client_info": {
+          "package_name": "com.example.movilesiiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770660359040-q500ksrg6l8cv3f1071bhk76o17r8d80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgkJKY51dDVq6yLTJtBhlMlqZQ6o-Ofs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770660359040-q500ksrg6l8cv3f1071bhk76o17r8d80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770660359040:android:ca6b6a8fa5c2c2bb9fff65",
+        "android_client_info": {
+          "package_name": "com.example.poemarioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770660359040-q500ksrg6l8cv3f1071bhk76o17r8d80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgkJKY51dDVq6yLTJtBhlMlqZQ6o-Ofs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770660359040-q500ksrg6l8cv3f1071bhk76o17r8d80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
